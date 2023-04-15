@@ -1,6 +1,6 @@
 ## Outward Definitive Edition: EnableEmotes
 
-This Mod adds keybinds for the following emotes: Sit, Arms Crossed, Pick Berries, Skin Animal.
+This Mod adds keybinds for the following emotes: Sit, Arms Crossed, Pick Berries, Skin Animal.  
 Set the keybinds for the emotes in the in-game keybinding-menu.
 
 Credits:  
