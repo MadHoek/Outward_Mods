@@ -22,4 +22,4 @@ Source Code available at **[EnableEmotes](https://github.com/MadHoek/Outward_Mod
 For manual installation:
 
 1. Place the EnableEmotes.dll in the following folder: `...Outward\Outward_Defed\BepInEx\plugins\EnableEmotes\`.
-2. Launch the game with BepInEx activated and the new keybindings should now show up in your in-game keybinding-menu.
+2. Launch the game with BepInEx activated and the new keybindings should show up in your in-game keybinding-menu.
