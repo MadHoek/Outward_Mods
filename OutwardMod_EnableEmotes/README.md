@@ -13,6 +13,10 @@ Source Code available at **[EnableEmotes](https://github.com/MadHoek/Outward_Mod
 
 ### Changelog  
 
+#### 1.0.1  
+
+* only available on Thunderstore: updated the "github-URL" to the correct one in manifest.json
+
 #### 1.0.0  
 
 * Initial Release
