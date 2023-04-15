@@ -16,7 +16,7 @@ namespace EnableEmotes
         // The name of the author.
         internal const string AUTHOR = "madhoek";
         // The VERSION of the project.
-        internal const string VERSION = "1.0.0";
+        internal const string VERSION = "1.0.1";
 
         // For accessing your BepInEx Logger from outside of this class (eg Plugin.Log.LogMessage("");)
         internal static ManualLogSource Log;
