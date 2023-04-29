@@ -3,8 +3,8 @@
 This Mod adds item-filters to the stash-inventory, like we have for the player-inventory.  
 Since I started to play this game, I whished for something like that. :)  
   
-All credits regarding the actual coding go to Akiroth or to whoever did it.
-My part was only to pull it out of the broken Stashcraft, fixing the errors it threw up and to make it useable.  
+All credits regarding the actual coding go to Akiroth or to whoever did it.  
+My part on this was only to pull it out of the broken Stashcraft, fixing the errors it threw up and to make it useable.  
   
 Credits:  
   
