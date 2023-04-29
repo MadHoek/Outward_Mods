@@ -21,6 +21,11 @@ Source Code available at **[The Swamp Map](https://github.com/MadHoek/Outward_Mo
   
 ### Changelog  
   
+
+#### 1.0.1  
+  
+* Used a safer way to skip original code
+* Formated inconsistent line endings in the code  
   
 #### 1.0.1  
   

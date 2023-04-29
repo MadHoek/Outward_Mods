@@ -12,7 +12,7 @@ namespace MadHoekSwampMap
         internal const string GUID = "madhoek.TheSwampMap";
         internal const string NAME = "TheSwampMap";
         internal const string AUTHOR = "madhoek";
-        internal const string VERSION = "1.0.0";
+        internal const string VERSION = "1.0.1";
 
         internal static ManualLogSource Log;
 
@@ -37,6 +37,7 @@ namespace MadHoekSwampMap
                 if (SceneManagerHelper.ActiveSceneName == "HallowedMarshNewTerrain")
                 {
                   __result = bundle.LoadAsset<Sprite>(name);
+                    return false;
                 }
                 if (SceneManagerHelper.ActiveSceneName != "HallowedMarshNewTerrain")
                 {
@@ -46,7 +47,7 @@ namespace MadHoekSwampMap
                 {
                     __result = __instance.m_splashScreen_DEPRECATED;
                 }
-                return false;
+                return true;
             }
 
         }
