@@ -17,7 +17,7 @@ Thanks to Mefino for the Outward Mod Template: **[Outward Mod Template](https://
 Thanks to **[sinai-dev](https://outward.thunderstore.io/package/sinai-dev/)** for, ...well ...everything, especially for the Outward **[SideLoader](https://outward.thunderstore.io/package/sinai-dev/SideLoader/3.8.4/)**.  
   
   
-Source Code available at **[Akiroth's StashFilters](https://github.com/MadHoek/Outward_Mods/tree/main/OutwardMod_AkirothsStashFilters)**.  
+Source Code available at **[madhoek: Akiroth's StashFilters](https://github.com/MadHoek/Outward_Mods/tree/main/OutwardMod_AkirothsStashFilters)**.  
   
 
 
