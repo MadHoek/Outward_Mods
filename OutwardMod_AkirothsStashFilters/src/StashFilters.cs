@@ -15,7 +15,7 @@ namespace StashFilters
 
         internal const string AUTHOR = "madhoek";
 
-        internal const string VERSION = "1.0.1";
+        internal const string VERSION = "1.0.2";
 
         public static StashFiltersPlugin Instance;
 

@@ -3,7 +3,7 @@
 This Mod adds item-filters to the stash-inventory, like we have for the player-inventory.  
 Since I started to play this game, I whished for something like that. :)  
   
-All credits regarding the actual coding go to Akiroth or to whoever did it.  
+All credits regarding the actual coding go to Akiroth or to whoever it did.  
 My part on this was only to pull it out of the broken Stashcraft, fixing the errors it threw up and to make it useable.  
   
 Credits:  
@@ -25,6 +25,10 @@ Source Code available at **[madhoek: Akiroth's StashFilters](https://github.com/
 
 ### Changelog  
   
+#### 1.0.2  
+  
+* Removed unnecessary dependency  
+
 #### 1.0.1  
   
 * Initial Release  
