@@ -12,7 +12,7 @@ namespace MadHoekSwampMap
         internal const string GUID = "madhoek.TheSwampMap";
         internal const string NAME = "TheSwampMap";
         internal const string AUTHOR = "madhoek";
-        internal const string VERSION = "1.0.1";
+        internal const string VERSION = "1.0.2";
 
         internal static ManualLogSource Log;
 
